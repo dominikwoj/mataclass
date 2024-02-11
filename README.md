@@ -1,1 +1,1 @@
-info form https://mmazurek.dev/metaklasy-w-pythonie/
+info from https://mmazurek.dev/metaklasy-w-pythonie/
